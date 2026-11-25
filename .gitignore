@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+node_modules/
+.env
+.env.local
+.env.*.local
+*.db
+.next/
+dist/
+build/
+ml/models/*.joblib
